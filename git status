@@ -1,0 +1,29 @@
+[33mcommit dbb046f7559dbaa808da7d858f8fb45b447d3252[m[33m ([m[1;36mHEAD -> [m[1;32mcrazycolors[m[33m)[m
+Author: Brian <briannguyenwg@gmail.com>
+Date:   Mon May 22 21:41:35 2023 +1000
+
+    add somthing
+
+[33mcommit 0224f06e863b08557d75845f41965c5648137ab7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Brian <briannguyenwg@gmail.com>
+Date:   Mon May 22 21:34:31 2023 +1000
+
+    change bg color
+
+[33mcommit 68e6c269bc4f5a9e563993e47cfae96bee9dce7e[m
+Author: Brian <briannguyenwg@gmail.com>
+Date:   Mon May 22 21:32:31 2023 +1000
+
+    add basic styles
+
+[33mcommit 8767bcd4d96c7c2e535400d381503c683f45d222[m
+Author: Brian <briannguyenwg@gmail.com>
+Date:   Mon May 22 21:29:48 2023 +1000
+
+    add app.js
+
+[33mcommit 2b655895e7fd8e340c07df506acba8442d97d303[m
+Author: Brian <briannguyenwg@gmail.com>
+Date:   Mon May 22 21:25:44 2023 +1000
+
+    create index.html file
